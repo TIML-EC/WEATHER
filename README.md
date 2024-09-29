@@ -2,11 +2,11 @@
 weather warnsum display 天氣資訊  
 ___
 [ v.2.4.0 ] [ 2024.09.30 ]
-- Change 天氣圖示 底色
-- Add 雷暴警告有效時間
-- Add 風速&風向
-- Add 天氣資訊顯示選項
+- Changed 天氣圖示 底色
+- Added 雷暴警告有效時間
+- Added 風速&風向
+- Added 天氣資訊顯示選項
 ___
 [ v.2.3.0 ] [ 2024.09.09 ]
-- Add 警告接收選項
+- Added 警告接收選項
 - Fixed UVindex no display problem
